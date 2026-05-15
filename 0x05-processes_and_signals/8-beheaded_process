@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Kills highlander with SIGKILL
+
+pkill -9 -f 7-highlander
